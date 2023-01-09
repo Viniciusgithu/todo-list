@@ -16,5 +16,5 @@ Ter conhecimentos em HTML, CSS e JavaScript
 
 ### 📌 Versão
 
-*[To do list](https://lista-de-afazeres-xi.vercel.app/) - Lista de tarefa 1.0
+* [To do list](https://lista-de-afazeres-xi.vercel.app/) - Lista de tarefa 1.0
 
