@@ -12,7 +12,7 @@ No meu andar tecnológico, me desafiei a produzir um projeto To do list, sob a v
 * [Live](https://www.youtube.com/watch?v=aQEQ9h7byWA&list=PLBmYI9kaT1GeSjqptwAvwlluIAPS4tFrK&index=11&ab_channel=RodolfoMori) - Live #25 Rodolfo Mori - Como começar o React.JS do zero
 
 ### 📋 Pré-requisitos
-Ter conhecimentos em HTML, CSS e JavaScript
+Ter conhecimentos em HTML, CSS, JavaScript e Node.JS
 
 ### 📌 Versão
 
